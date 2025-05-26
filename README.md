@@ -1,14 +1,5 @@
 # Hi there, I'm irwan! 👋
-![GIF](https://giffiles.alphacoders.com/208/208446.gif)
-
-### About Me
-- 🔭 I’m currently working on [project name]
-- 🌱 I’m currently learning [technology/language]
-- 👯 I’m looking to collaborate on [open-source projects]
-- 💬 Ask me about [your expertise]
-- 📫 How to reach me: [email/social media]
-- 😄 Pronouns: [your pronouns]
-- ⚡ Fun fact: [something interesting]
+![GIF](https://giffiles.alphacoders.com/208/208446.gif) 
 
 ### My Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
