@@ -1,7 +1,7 @@
 # Hi there, I'm Irwan! 👋  
 
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/208/208446.gif" alt="animated gif" width="400">
+  <img src="https://i.gifer.com/kHY.gif" alt="animated gif" width="400">
 </div>
 
 ### My Tech Stack  
