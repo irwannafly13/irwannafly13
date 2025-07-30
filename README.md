@@ -2,7 +2,7 @@
 
  
 <div align="center">
-  <img src="https://64.media.tumblr.com/6b64f57d620040c36c44c396428c07ee/eda13c3f7efb3055-59/s540x810/29ac04cd051b529eb6501351a24713c45bbd079a.gif" alt="animated gif" width="600">
+  <img src="https://64.media.tumblr.com/6b64f57d620040c36c44c396428c07ee/eda13c3f7efb3055-59/s540x810/29ac04cd051b529eb6501351a24713c45bbd079a.gif" alt="animated gif" width="400">
 </div>
 
 ### My Tech Stack  
