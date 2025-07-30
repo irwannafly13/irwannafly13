@@ -2,7 +2,7 @@
 
  
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk0d2Z1ZzN2dWY5bGJmZ2Z6eG5xM2V6eGZ2b3BqY2J5eGZ2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aTskHEUdgCQAXde/giphy.gif" alt="animated gif" width="400">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBjaGp4ZHF3YnNiOWMwcXN2cThnZTY0YWp4cXZsdWhxeGN1OXo4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MFbwT3J7EX1dO4RsCw/giphy.gif" alt="animated gif" width="800">
 </div>
 
 ### My Tech Stack  
