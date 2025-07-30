@@ -2,7 +2,7 @@
 
  
 <div align="center">
-  <img src="https://bfi-others.oss-ap-southeast-5.aliyuncs.com/tumblr_6b64f57d620040c36c44c396428c07ee_29ac04cd_540.gif" alt="animated gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk0d2Z1ZzN2dWY5bGJmZ2Z6eG5xM2V6eGZ2b3BqY2J5eGZ2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aTskHEUdgCQAXde/giphy.gif" alt="animated gif" width="400">
 </div>
 
 ### My Tech Stack  
